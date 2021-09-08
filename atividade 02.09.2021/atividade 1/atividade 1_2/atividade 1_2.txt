@@ -1,0 +1,13 @@
+2  Faça um algoritmo  para fazer um bolo de chocolate e escreva o fluxograma.
+ 
+	>inicio
+	>pegue uma vasilha  de bolo
+	>coloque 2 ovos
+	>coloque manteiga
+	>coloque acucar
+	>coloque trigo
+	>coloque um pouco de agua
+	>coloque sal
+	>mexa tudo
+	>quando ficar concistente
+	>coloque no fogo por 40 minuto

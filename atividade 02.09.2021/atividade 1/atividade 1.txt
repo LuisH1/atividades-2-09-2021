@@ -1,0 +1,38 @@
+1) Faça um algoritmo para somar três números e multiplicar o resultado pelo segundo número 
+ 
+ >function somatres(a,b,c){
+  return  (a + b +c ) *b 
+}
+
+
+
+
+3) Faça um algoritmo para trocar um pneu de um carro.
+
+>inicio
+>pegue o macaco 
+>acione ele
+>coloque a chave no  pneus
+>retire o pneus
+>pegue o pneu no step
+>troque o pneu
+>fim
+
+4)      Faça um algoritmo para “Calcular o estoque médio de uma peça”, sendo que ESTOQUE_MEDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) /2
+
+>inicio
+>recebe o valor na quantidade minima 
+>receba o valor naquantidade maxima  
+>some os dois 
+>divida por 2
+>fim
+
+
+
+5)      Identifique os dados de entrada, processamento e saída no algoritmo abaixo e escreva o fluxograma:
+
+●        Receba código da peça x = entrada 
+●        Receba valor da peça x = entrada
+●        Receba Quantidade de peças x = entrada 
+●        Calcule o valor total da peça x (Quantidade * Valor da peça) = processamento
+●        Mostre o código da peça x, a quantidade de peças e o valor total. = saida

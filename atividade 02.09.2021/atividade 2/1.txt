@@ -1,0 +1,29 @@
+1   Escreva a declaração de uma variável do tipo booleano para saber se a pessoa é maior de idade.
+
+>var maioridade = true
+
+
+
+2   Escreva a declaração de uma variável do tipo string para armazenar o nome de um animal.
+
+>var leao = "leao"
+
+3   Escreva a declaração de uma variável do tipo numérico para armazenar a sua idade.
+
+var idade = 20
+
+4 Escreva a declaração de uma variável do tipo numérico para armazenar o nome de uma ave doméstica.
+
+>não tem condições
+
+5 Escreva a declaração de uma variável para armazenar a data de seu nascimento.
+
+>var idade = 1997
+
+6   Escreva as declarações de variáveis para armazenar as respostas das perguntas abaixo:
+
+●      Você gosta de ouvir música? R = var gostomusical =  true
+
+●      Você gosta de dançar?  R = var danca= false
+
+●      Você toca algum instrumento musical? Se sim, qual? R = var toca = false

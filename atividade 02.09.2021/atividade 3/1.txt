@@ -1,0 +1,36 @@
+1)    Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+
+ 
+
+Para homens: (72.7*h) - 58
+
+Para mulheres: (62.1*h) - 44.7   
+
+(h = altura)
+
+R= 	>receba a altura
+	>receba o sexo da pessoa
+	>se for homem 
+	>faça esse calculo
+	>(72.7*h)
+ 
+	
+	>se for mulher
+	>faça esse calculo
+	>(62.1*h)
+
+2)    Construa um diagrama de blocos (fluxograma) para ler uma variável numérica  e imprimi-la somente se a mesma for maior que 100, caso contrário imprimi-la com o valor zero.
+
+
+
+3)      Ler um número e verificar se ele é par ou ímpar. Quando for "par" armazenar esse valor em na variável P e quando for "ímpar" armazená-lo em I. Exibir P e I no final do processamento.
+
+
+	
+
+4)      Elabore um diagrama de blocos que leia um número. Se positivo armazene-o em A, se for negativo, em B. No final mostrar o resultado.
+
+
+
+
+5)    Identifique os dados de entrada, processamento e saída para o fluxograma abaixo, e informe os tipos de dados das variáveis.

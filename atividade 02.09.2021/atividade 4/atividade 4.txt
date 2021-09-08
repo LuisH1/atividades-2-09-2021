@@ -1,0 +1,25 @@
+1)    Faça uma função que recebe a hora atual e retorna essa hora em milissegundos.
+
+	>function hora(h){
+  return  h* 3600000
+}
+
+2)    Faça uma função que receba três valores reais e retorne o resultado conforme a fórmula:  
+
+	>function potencia(a,b,c){
+  return  (a + b)**c
+}
+
+3)    Faça uma função que recebe, por parâmetro, dois valores X e Z e calcula e retorna Xz..
+
+
+ >function valores(x,z){
+  return (x + z)
+}
+
+4)  Faça uma função que receba cinco notas do aluno e retorne a média com base na fórmula:  
+
+
+	>function media(n1,n2,n3,n4,n5){
+  return (n1 + n2 + n3 + n4 + n5)/5
+}

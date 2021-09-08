@@ -1,0 +1,9 @@
+ 6) Criar fluxograma que:
+
+●        Leia 4 (quatro) números
+
+●        Calcule o quadrado para cada um
+
+●        Some todos os resultados
+
+●        Mostre o resultado final
